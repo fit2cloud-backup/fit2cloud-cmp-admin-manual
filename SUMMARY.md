@@ -1,4 +1,4 @@
-# FIT2CLOUD 云管理平台 v2.0 管理员手册
+# Summary
 
 * [文档信息](README.md)
 * [本文档的目的](本文档的目的.md)
